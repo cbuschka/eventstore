@@ -1,4 +1,5 @@
 # eventstore
+[![Build](https://github.com/cbuschka/eventstore/workflows/build/badge.svg)](https://github.com/cbuschka/eventstore) [![License](https://img.shields.io/github/license/cbuschka/eventstore.svg)](https://github.com/cbuschka/eventstore/blob/main/license.txt)
 
 ### Event store implementation in Java.
 
